@@ -1,1 +1,1 @@
-# weatherapp
+This is a front-end web project built using HTML, CSS, Bootstrap, and JavaScript . The project showcases a responsive and interactive user interface, designed with clean layout and modern styling. It's aimed at practicing and demonstrating core web development skills including layout structuring, form handling, responsive design, and component-based development.
